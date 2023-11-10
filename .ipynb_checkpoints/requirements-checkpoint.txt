@@ -1,5 +1,5 @@
 streamlit==1.26.0
+plotly
 pandas == 2.0
 streamlit_authenticator
 matplotlib
-plotly
